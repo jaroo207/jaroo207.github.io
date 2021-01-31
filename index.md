@@ -5,5 +5,5 @@ description: For MSBA
 
 This is content for the github assignment
 
-- [S&P 500 Growth](/timeseries/index.md)
+- [S&P 500 Growth Graph](/timeseries/index.md)
 
