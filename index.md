@@ -3,9 +3,7 @@ Title: Drew's Github Site
 description: For MSBA 
 ---
 
-![Gamestonk](/pics/gamestonk.JPG)
-
-![Christmas 2020](/pics/christmas.JPG)
+![Surry Sunset](/pics/sunset.JPG)
 
 
 This is content for the github assignment
