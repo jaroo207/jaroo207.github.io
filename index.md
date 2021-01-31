@@ -3,7 +3,7 @@ Title: Drew's Github Site
 description: For MSBA 
 ---
 
- ![Gamestonk!](/pics/gamestonk.jpg)
+![Gamestonk](/pics/gamestonk.jpg)
 
 
 This is content for the github assignment
