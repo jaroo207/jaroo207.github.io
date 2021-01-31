@@ -1,5 +1,5 @@
 ---
-title: Time Series Decomp
+title: Drew McElroy OMSBA Github Assignment
 description: Course Content
 ---
 
